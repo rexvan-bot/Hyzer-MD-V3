@@ -1,0 +1,3 @@
+
+language = "nodejs"
+run = "cd Alphabot-Md && rm -rf session.json && rm -rf store.json && npm start
